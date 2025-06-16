@@ -60,15 +60,15 @@ This project is a URL shortening service similar to Bit.ly or TinyURL. It allows
 ### 6. Opening Page
 ![Opening Page](FRONTEND/src/screenshots/openingpage.png)
 
-### 7. Redirecting URL
-![Redirecting URL](FRONTEND/src/screenshots/redirectingurl.png)
 
-### 8. Shortened URL Example
+### 7. Shortened URL Example
 ![Shortened URL](FRONTEND/src/screenshots/shortenedurl.png)
 
-### 9. User Login Page
-![User Login Page](FRONTEND/src/screenshots/userloginpage.png)
 
-### 10. Using Shortened URL
+### 8. Using Shortened URL
 ![Using Shortened URL](FRONTEND/src/screenshots/usingshortenedurl.png)
+
+### 9. Redirecting URL
+![Redirecting URL](FRONTEND/src/screenshots/redirectingurl.png)
+
 
