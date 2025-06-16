@@ -40,3 +40,35 @@ This project is a URL shortening service similar to Bit.ly or TinyURL. It allows
 
 ---
 
+## Screenshots
+
+### 1. Create Account Page
+![Create Account](FRONTEND/src/screenshots/createaccount.png)
+
+### 2. Custom URL Creation
+![Creating Custom URL](FRONTEND/src/screenshots/creatingcustomurl.png)
+
+### 3. Short URL Creation
+![Creating Short URL](FRONTEND/src/screenshots/creatingshorturl.png)
+
+### 4. Dashboard
+![Dashboard](FRONTEND/src/screenshots/dashboard.png)
+
+### 5. Login Page
+![Login Page](FRONTEND/src/screenshots/loggingin.png)
+
+### 6. Opening Page
+![Opening Page](FRONTEND/src/screenshots/openingpage.png)
+
+### 7. Redirecting URL
+![Redirecting URL](FRONTEND/src/screenshots/redirectingurl.png)
+
+### 8. Shortened URL Example
+![Shortened URL](FRONTEND/src/screenshots/shortenedurl.png)
+
+### 9. User Login Page
+![User Login Page](FRONTEND/src/screenshots/userloginpage.png)
+
+### 10. Using Shortened URL
+![Using Shortened URL](FRONTEND/src/screenshots/usingshortenedurl.png)
+
