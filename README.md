@@ -1,4 +1,4 @@
-# URL Shortener - MERN Stack Production-Ready Project
+# URL Shortener - MERN Stack Project
 
 A full-featured, production-level URL shortener built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project demonstrates backend API design, frontend integration, authentication, state management, and deployment best practices.
 
