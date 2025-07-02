@@ -35,8 +35,7 @@ This project is a URL shortening service similar to Bit.ly or TinyURL. It allows
 **Frontend:** React.js, React Router, Redux, TanStack Query  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB (with Mongoose ORM)  
-**Authentication:** JWT (JSON Web Tokens)  
-**Deployment:** Production-ready configurations included
+**Authentication:** JWT (JSON Web Tokens) 
 
 ---
 
